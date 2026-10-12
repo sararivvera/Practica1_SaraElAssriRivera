@@ -1,0 +1,11 @@
+# Tema CLAR per a tots els controls de Streamlit (no només Plotly).
+# Important: iniciar Streamlit des d'aquesta carpeta
+[theme]
+base = "light"
+primaryColor = "#0F9F92"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+
+[browser]
+gatherUsageStats = false

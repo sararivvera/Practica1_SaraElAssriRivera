@@ -1,0 +1,8 @@
+model,modalitat,puntuacio_pct,font_valor
+GPT-5,Raonament alt,74.9,https://openai.com/index/introducing-gpt-5-for-developers/
+GPT-5 mini,Raonament alt,71.0,https://openai.com/index/introducing-gpt-5-for-developers/
+GPT-5 nano,Raonament alt,54.7,https://openai.com/index/introducing-gpt-5-for-developers/
+OpenAI o3,Raonament alt,69.1,https://openai.com/index/introducing-gpt-5-for-developers/
+OpenAI o4-mini,Raonament alt,68.1,https://openai.com/index/introducing-gpt-5-for-developers/
+GPT-4.1,Esforç no indicat,54.6,https://openai.com/index/introducing-gpt-5-for-developers/
+GPT-4.1 mini,Esforç no indicat,23.6,https://openai.com/index/introducing-gpt-5-for-developers/

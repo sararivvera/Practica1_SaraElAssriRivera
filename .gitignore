@@ -1,0 +1,20 @@
+# Python i entorns locals
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Editors i arxius del sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Sortides que es poden regenerar executant python -m src.swebench.preprocessament
+dades/processades/comparacions_totes.csv
+dades/processades/distribucio_repo_dificultat.csv
+
+# Informació sensible de Streamlit (es conserva config.toml)
+.streamlit/secrets.toml

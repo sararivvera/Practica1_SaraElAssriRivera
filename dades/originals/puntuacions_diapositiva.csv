@@ -1,0 +1,5 @@
+model,modalitat,puntuacio_pct,font_valor
+GPT-5,Amb raonament,74.9,https://openai.com/index/introducing-gpt-5-for-developers/
+GPT-5,Sense raonament,52.8,https://www.youtube.com/watch?v=0Uu_VJeVVfo&t=300s
+OpenAI o3,Amb raonament,69.1,https://openai.com/index/introducing-gpt-5-for-developers/
+GPT-4o,Sense raonament,30.8,https://www.youtube.com/watch?v=0Uu_VJeVVfo&t=300s
