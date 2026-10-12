@@ -1,6 +1,6 @@
-# SWE-bench Verified — redisseny crític
+# SWE-bench Verified - redisseny crític
 
-**Pràctica 1 de Modelització i Visualització de Dades (URV) — Sara El Assri Rivera.**
+**Pràctica 1 de Modelització i Visualització de Dades (URV) - Sara El Assri Rivera.**
 
 Aplicació interactiva que redissenya el gràfic de la presentació de GPT-5 del 7 d’agost de 2025. La vista inicial conserva les quatre puntuacions de la diapositiva; la vista ampliada compara set resultats publicats a la taula oficial. Les diferències són descriptives i no impliquen causalitat.
 
